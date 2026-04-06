@@ -1,5 +1,5 @@
 ## Классы, наследование
-https://github.com/Elen87/Classes-inheritance/blob/8c5ddb4066a7035b731d7077e650d317584b7568/.github/workflows/webpack.yml
+[![NodeJS with Webpack](https://github.com/Elen87/Classes-inheritance/actions/workflows/webpack.yml/badge.svg)](https://github.com/Elen87/Classes-inheritance/actions/workflows/webpack.yml)
 
 
 ### Легенда
